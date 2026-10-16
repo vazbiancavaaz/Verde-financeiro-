@@ -1,5 +1,5 @@
 # Verde Financeiro 🌿
-
+Site online: https://mariaoikawa177.pythonanywhere.com
 Aplicativo **web local** de gerenciamento financeiro pessoal, desenvolvido em **Python + Flask + SQLite**. O navegador (Chrome, Edge ou Firefox) mostra a interface, mas os cálculos e o armazenamento acontecem no Python do seu próprio computador. **Não é um site publicado na internet** e não precisa de conta, API paga ou conexão com a internet depois da instalação inicial.
 
 ## Funcionalidades
