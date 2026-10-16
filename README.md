@@ -94,8 +94,8 @@ Substitua `SEU_USUARIO` e confirme que **nenhum banco pessoal, segredo, token ou
 
 ## Integrantes
 
-- [Nome do estudante]
-- [Nome de outro integrante, se houver]
+Maria Eduarda Morais Oikawa
+Bianca Domingues Vaz
 
 ## Limitações conhecidas
 
